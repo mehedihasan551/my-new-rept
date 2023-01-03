@@ -1,0 +1,47 @@
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  .hot{
+    color: aquamarine;
+  }
+.hot{
+    color: red;
+    background-color:yellow;
+    border: 5px solid greenyellow;
+    height: 80px;
+    width:1300px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top: 250ps;
+    margin-left: 130px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: gray;
+    background-color: aquamarine;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 2px 1px 5px 10px;
+}
+#aae{
+    margin-left: 1100px;
+    background-color:whitesmoke;
+    color: red;
+
+   
+}
+.top{text-align: center;
+    background-color: teal;
+    height: 250px;
+    width: 200px;
+   padding-left: 20px ;
+   padding-right: 20px;
+   margin: 250px auto 0px auto;
+    margin-top: auto;
+    border-radius: 22px;
+} 
+   
